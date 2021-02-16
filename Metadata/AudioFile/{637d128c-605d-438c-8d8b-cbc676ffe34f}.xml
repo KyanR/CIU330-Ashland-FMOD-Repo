@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{637d128c-605d-438c-8d8b-cbc676ffe34f}">
+		<property name="assetPath">
+			<value>KNIFE_SLASH_44.1Khz_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.47467120181405897</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e0ca22b0-20d7-4b6d-a21d-32ce401badb2}</destination>
+		</relationship>
+	</object>
+</objects>
